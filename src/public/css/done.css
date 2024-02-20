@@ -1,0 +1,40 @@
+.head {
+    color: blue;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.main {
+    padding: 50px;
+    text-align: center;
+}
+
+.thanks {
+    background-color: white;
+    width: 40%;
+    margin: 30px auto;
+    box-shadow: 3px 3px 3px #000;
+    height: 180px;
+    text-align: center;
+}
+
+.thanks-text {
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+.back-box {
+    background-color: blue;
+    width: 20%;
+    border-radius: 3px;
+    margin: 0 auto;
+}
+
+.back-button {
+    margin-bottom: 20px;
+    border: none;
+    color: white;
+    text-decoration: none;
+}

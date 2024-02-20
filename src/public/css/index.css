@@ -1,0 +1,86 @@
+.head {
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-space{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+
+.search-form{
+    margin: 10px;
+}
+
+.search-form__button-submit {
+    background-color: white;
+    border: none;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+
+.search-form__item-input{
+    color: gray;
+    width: 70%;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.card {
+    width: 22%;
+    background-color: white;
+    box-shadow: 2px 2px 2px #000;
+    margin: 15px;
+}
+
+.shop-image {
+    width: 100%;
+}
+
+.card-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.shop-detail {
+    background-color: blue;
+    border: none;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 0 10px;
+    width: 50%;
+}
+
+.favorite {
+    background-color: pink;
+    border: none;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    padding: 0 10px;
+    width: 70%;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.favorite_alert{
+    background-color: pink;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 30px;
+}

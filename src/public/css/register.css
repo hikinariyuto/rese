@@ -1,0 +1,73 @@
+.head {
+    color: blue;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.main {
+    padding: 50px;
+}
+
+.login-form {
+    background-color: white;
+    width: 30%;
+    margin: 30px auto;
+    box-shadow: 3px 3px 3px #000;
+}
+
+.tytle {
+    background-color: blue;
+    color: white;
+    height: 40px;
+}
+
+.login {
+    margin-left: 5%;
+    font-size: 20px;
+    padding-top: 2%;
+}
+
+.username-box {
+    margin: 10px;
+}
+
+.username-input {
+    color: gray;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.email-box {
+    margin: 10px;
+}
+
+.email-input {
+    color: gray;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.password-box {
+    margin: 10px;
+}
+
+.password-input {
+    color: gray;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.register-button {
+    background-color: blue;
+    margin-left: 70%;
+    margin-bottom: 20px;
+    border: none;
+    color: white;
+    width: 20%;
+    border-radius: 3px;
+}

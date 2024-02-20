@@ -1,0 +1,119 @@
+.screen {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.head {
+    color: blue;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.left {
+    width: 50%;
+    margin-right: 30px;
+}
+
+.shop-name {
+    font-size: 24px;
+}
+
+.shop-image {
+    width: 100%;
+}
+
+.shop-introduce {
+    margin: 30px 0;
+}
+
+.right {
+    background-color: blue;
+    width: 50%;
+    margin-left: 30px;
+}
+
+.reserve-text {
+    font-size: 24px;
+    color: white;
+    padding-left: 10%;
+}
+
+.name-input {
+    width: 40%;
+    margin-left: 15px;
+    margin-top: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.date-box {}
+
+.date-input {
+    width: 40%;
+    margin-left: 15px;
+    margin-top: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.time-box {}
+
+.time-input {
+    width: 90%;
+    margin-left: 15px;
+    margin-top: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.number-box {}
+
+.number-input {
+    width: 90%;
+    margin-left: 15px;
+    margin-top: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.reverse-table {
+    background-color: deepskyblue;
+    width: 80%;
+    color: white;
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 150px;
+}
+
+.title {
+    width: 30%
+}
+
+.content {
+    width: 70%
+}
+
+.reserve-box {
+    margin-top: 400px;
+}
+
+.reserve-button {
+    background-color: mediumblue;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: white;
+    height: 50px;
+}
